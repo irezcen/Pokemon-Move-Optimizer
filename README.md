@@ -64,11 +64,11 @@ The app expects the following CSV files:
 
   How to run:
   
-  Download 2 .py files and 4 .csv data files(or provide your own)
-  
-  install dependencies
-  
-  Run gui.py
+  Download and extract .zip file.
+
+  Run moveset_optimizer.exe
+
+  Make sure all csv files are in the same folder that .exe
   
 
   Terminal will print some data for debugging purposes
